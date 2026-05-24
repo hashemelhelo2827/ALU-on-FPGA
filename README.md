@@ -171,10 +171,10 @@ KEY ──► Debouncer ──► write_pulse ───────────�
 ---
 
 ## 👨‍💻 Authors
-##Yehia Mahmoud 
-##Hashim elhelo
-##Mostafa Hany 
-##Yassen 
+Yehia Mahmoud 
+Hashim elhelo
+Mostafa Hany 
+Yassen 
 ##Made with ❤️ as a Logic Design course project.
 
 > Feel free to fork, star ⭐, and build on top of it!
