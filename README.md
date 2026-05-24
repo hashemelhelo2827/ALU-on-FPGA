@@ -175,7 +175,7 @@ KEY ──► Debouncer ──► write_pulse ───────────�
 - Yehia Mahmoud
 - Hashim elhelo
 - Mostafa Hany
-- Yassen
+- Yassen Mohammed
 
 Made with ❤️ as a Logic Design course project.
 
